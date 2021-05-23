@@ -1,5 +1,5 @@
 > Wip (sorry)
 # UNET Segmentation in PyTorch (with TGS)
 
-<img src="/Digital Notes/Unet Digital Notes.png" width="100%" />
+<img src="/Digital Notes/UNET DigiNote.png" width="100%" />
 
